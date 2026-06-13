@@ -125,7 +125,7 @@ Total Restaurants = COUNTROWS('zomato')
    - Home → Refresh
 
 5. **Explore the Dashboard**
-   - Use slicers on the left to filter by Country, City, or Food Style
+   - Use slicers on the left to filter by Country, City
 
 ---
 
