@@ -141,7 +141,7 @@ Total Restaurants = COUNTROWS('zomato')
 
 ## 🙋 About Me
 
-**[Shravan Pandirkar]**
+**Shravan Pandirkar**
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shravan-pandirkar-4a9552321)
