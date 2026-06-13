@@ -99,11 +99,12 @@ Total Restaurants = COUNTROWS('zomato')
 
 ```
 📦 Zomato-Dashboard
+ ┣ 📂 Zomato_Dataset              # Dataset folder
+ ┣ 📝 README.md                   # Project documentation
  ┣ 📊 Zomato_Dashboard.pbix       # Power BI file
- ┣ 📄 zomato.csv                  # Raw dataset
- ┣ 🖼️ dashboard_preview.png       # Dashboard screenshot
- ┗ 📝 README.md                   # Project documentation
+ ┗ 🖼️ dashboard_preview.jpeg      # Dashboard screenshot
 ```
+
 
 ---
 
@@ -140,19 +141,14 @@ Total Restaurants = COUNTROWS('zomato')
 
 ## 🙋 About Me
 
-**[Your Name]**
+**[Shravan Pandirkar]**
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
-- 📧 youremail@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shravan-pandirkar-4a9552321)
+- 💻 [GitHub](https://github.com/Shravan-pandirkar)
+- 📧 shravanpandirkar39@gmail.com
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
